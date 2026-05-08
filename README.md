@@ -32,34 +32,12 @@ An end-to-end multi-service AI platform for retail intelligence.
 - 🧩 Microservices Architecture (FastAPI)  
 - 🐳 Fully Dockerized Platform (Docker + Docker Hub)  
 
-### 🏗️ Architecture
-
-```
-
-Frontend (React)
-↓
-FastAPI Services
-├── Recommendation Service
-├── Content Intelligence Service (GenAI)
-└── (Planned) Customer Analytics Service
-
-```
-
----
-
 ## 🧪 Current Work & Exploration
 
 - Exploring product recommendation systems for retail platforms  
 - Building AI-powered retail content generation systems using OpenAI  
 - Working on data management approaches for performance and security  
 - Creating retail-focused datasets and workflows (Kaggle)  
-
----
-
-## 🎤 Speaking
-
-- 🎙️ Invited Speaker – TIC 2026  
-  **Topic:** *From Rules to Intelligence: Evolving Retail Content Systems with AI*
 
 ---
 
@@ -100,5 +78,5 @@ To build intelligent systems that power the next generation of **AI-driven retai
 ## 📫 Connect
 
 - GitHub: https://github.com/Noopur17  
-- LinkedIn: [(add your link here)](https://www.linkedin.com/in/noopurbhatt17/)
+- LinkedIn: https://www.linkedin.com/in/noopurbhatt17/
 ```
